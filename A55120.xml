@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pleasant and delightful history of King Henry the VIII, and the Abbot of Reading Declaring how the King dined with the Abbot of Reading, and how the King brought the Abbot to a good stomach, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55120</idno><idno type="EEBO-CITATION">99832804</idno>
+  <idno type="VID">37278</idno>
+  <idno type="EEBO-PROQUEST">2240933532</idno>
+  
+            <idno type="STC">Wing P2530A</idno>
+            <idno type="STC">ESTC R221506</idno>
+            <idno type="PROQUEST">99832804</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832804e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55120)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37278)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2150:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pleasant and delightful history of King Henry the VIII, and the Abbot of Reading Declaring how the King dined with the Abbot of Reading, and how the King brought the Abbot to a good stomach, &amp;c.</title>
+               </titleStmt>
+               <extent>[4], 17, [3] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. M[illet]. for Charles Dennisson, at the Stationers-Arms, within Aldgate,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[ca. 1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and printer's name from and date conjectured by</note>
+                  <note>Advertisement on B3v.</note>
+                  <note>The final leaf, B4, has blank recto; woodcut on verso.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Henry, --  King of England, 1491-1547 --  Fiction --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37278:1"/>
+            <pb facs="tcp:37278:1"/>
+            <p>The Pleasant HISTORY of King <hi>Henry</hi> the Eighth, AND THE <hi>Abbot</hi> of <hi>Reading.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut with three panels: the king hunting, the king and the abbott at dinner, the abbott brought to the Tower of London</figDesc>
+            </figure>
+            <p>Printed by <hi>J. M.</hi> for <hi>C. Dennisson,</hi> at the <hi>Stationers</hi>-Arms, within <hi>Aldgate.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:37278:2"/>
+            <pb facs="tcp:37278:2"/>
+            <p>THE Pleasant and Delightful HISTORY OF <hi>King Henry <hi>the</hi>
+               </hi> VIII. AND The <hi>Abbot</hi> of <hi>READING.</hi>
+            </p>
+            <p>Declaring how the <hi>KING</hi> Dined with the <hi>Abbot</hi> of <hi>Reading,</hi> and how the KING brought the <hi>Abbot</hi> to a good Stomach, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>LONDON, <hi>Printed by</hi>
+               </hi> J. M. <hi>for</hi> Charles Dennisson, <hi>at the</hi> Stationers-Arms, <hi>within</hi> Aldgate.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:37278:3"/>
+            <pb n="1" facs="tcp:37278:3"/>
+            <head>The Pleasant Story OF <hi>King</hi> HENRY <hi>the</hi> 8<seg rend="sup">th.</seg> AND The <hi>Abbot</hi> of <hi>Reading.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. How King <hi>Henry</hi> the Eigth rode a Hun<g ref="char:EOLhyphen"/>ting in <hi>Windsor</hi>-Forrest, and how he lost his company, and Dined with the <hi>Abbot</hi> of <hi>Reading.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">K</seg>Ing <hi>Henry</hi> the Eighth be<g ref="char:EOLhyphen"/>ing accustomed to ri<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e a Hunting in and about <hi>Windsor-Forrest;</hi> one day above all the rest se<g ref="char:EOLhyphen"/>parated himself from the rest of his Company, as he was ri<g ref="char:EOLhyphen"/>di<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g alone by himself he found he had
+<pb n="2" facs="tcp:37278:4"/> a strong appetite to eat: whereupon he thought a fit occasion offered it self to go Dine with the Lord <hi>Abbot</hi> of <hi>Reading,</hi> it being unknown to any of his Company; and in that Guard and Disguise he was in, neither the <hi>Abbot</hi> nor any of his Servants could know him, whereupon he resolved to put it in action, which he accordingly did: It being much about the time his Lord<g ref="char:EOLhyphen"/>ship went to Dinner: now the Lord <hi>Abbot</hi> kept a large and plentiful Table, and was very free and liberal to all persons, especially to Gentlemen; and the King being in a good gentile Garb (though far different from what he or<g ref="char:EOLhyphen"/>dinarily wore) had easy admittance to his Lordship, letting him know he was on his way to <hi>London,</hi> and being near his Lordships, he took the freedom to come and Dine with him. The Lord <hi>Abbot</hi> told him, he gave him many thanks for the freedom he used, and withal, that he was heartily welcome. The Table being spread with variety of Dishes, the King sate down to his Meat, eating very heartily of a Loyn of Beef, commonly called a Sir-Loyn of Beef; insomuch that the <hi>Abbot</hi> took
+<pb n="3" facs="tcp:37278:4"/> great notice of him, to see how he laid about him, first cutting a good sizeable piece, then calling for a Glass of his Claret, drank it off, and then sell to his Beef afresh, continuing eating until he had made a pritty handsome hole in the Sir-Loyn of Beef, said the <hi>Abbot,</hi> much good may it do you sir, I perceive you have a good Stomach to your meat, I would give an hundred pounds with all my Heart, I had so good a stomach as you have; you see of all this variety of meats here is, I can hardly eat any thing, a pestle of a Lark is as much as I have eaten. The King returned him thanks, and withal told him, that he had a pritty good stomach, and wished his Lordship as good a sto<g ref="char:EOLhyphen"/>mach as he had, the King having plen<g ref="char:EOLhyphen"/>tifully refreshed himself at the Lord <hi>Abbots</hi> Table; after grace was said, he took his leave of his Lordship, giving him thanks for his kind and hearty Entertainment, further telling him, that he belonged to the Court, and that he would let his Majesty know how kindly he had entertained him.</p>
+               <p>The King having mounted his Horse rode immediately to the Forrest, where
+<pb n="4" facs="tcp:37278:5"/> it was not long before he found his company, who (though they had missed him) could not imagine where he had been, but still went on to pursue their sport, until such time they had killed the Deer; that being ended he return<g ref="char:EOLhyphen"/>ed to <hi>London.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. How the King sent a Messenger for the Lord <hi>Abbot,</hi> and sent him Prisoner to the <hi>Tower.</hi>
+               </head>
+               <p>THe King had not been many days in <hi>London,</hi> before he sends a Mes<g ref="char:EOLhyphen"/>senger down for the Lord Abbot, Com<g ref="char:EOLhyphen"/>mitting him close Prisoner to the <hi>Tow<g ref="char:EOLhyphen"/>er,</hi> and sending for the Lieutenant of the <hi>Tower,</hi> gave him strict Orders, up<g ref="char:EOLhyphen"/>on pain of Death not to let the Abbot have meat or drink, no other than bread and water, until such time as he gave him further order, which the <hi>Lieu<g ref="char:EOLhyphen"/>tenant</hi> said he should readily obey; he f<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rther enjoyned the <hi>Lieutenant</hi> to bring him word every day of the Abbots be<g ref="char:EOLhyphen"/>haviour,
+<pb n="5" facs="tcp:37278:5"/> and how he brooked his Im<g ref="char:EOLhyphen"/>prisonment.</p>
+               <p>Now all places, Court and City were fill'd with the News of the Lord Abbots Imprisonment in the <hi>Tower,</hi> but could not imagine what was the reason of it; some judging one thing, some another, according to their seve<g ref="char:EOLhyphen"/>ral apprehensions, and private conje<g ref="char:EOLhyphen"/>cture of the matter, but came still very short of what was the true and real cause of his Imprisonment: Now if others were so much troubled and con<g ref="char:EOLhyphen"/>cern'd to know what was the real cause of his Imprisonment, you may well think that the Lord Abbot was highly troubled and perplexed to see himself deprived of his stately Palace and de<g ref="char:EOLhyphen"/>licious Walks, his variety of palata<g ref="char:EOLhyphen"/>ble Dishes, his choice of rare and excel<g ref="char:EOLhyphen"/>ent Wines, and the company of his comfortable Friends, and of a suddain to be Confined to a close and dismal Prison, and to be fed only with Bread and Water; and what was most of all, he knew not for what reason, nor wherein he had offended his Majesty; he therefore writ to his friends to make intercession for him to the King for his
+<pb n="6" facs="tcp:37278:6"/> liberty, and that he might have a better allowance of meat and drink, but if they could not prevail in that, he desi<g ref="char:EOLhyphen"/>red them to learn for what cause he was so closely Imprisoned; or where<g ref="char:EOLhyphen"/>in he had so grievously and hainously offended the King, for he did seriously profess he was wholly ignorant of the matter: Now his Friends were not idle, but did earnestly Solicite his Ma<g ref="char:EOLhyphen"/>jesty on his behalf, but to little or no purpose, for the King was extreamly Averse to all their Intercessions; nei<g ref="char:EOLhyphen"/>ther could they learn from the King wherein the Abbot had offended him. They therefore concluded it was some great and hainous offence that the Ab<g ref="char:EOLhyphen"/>bot had committed.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="7" facs="tcp:37278:6"/>
+               <head>CHAP. III. How the Li<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>utenant of the <hi>Tower</hi> went to the King in behalf of the <hi>Abbot.</hi>
+               </head>
+               <p>NOw the Lord Abbot seeing his Friends could not prevail with the King, he therefore made his complaint to the Lieutenant of the <hi>Tower,</hi> who came constantly to visit him every day, expressing great sorrow and trouble for his Lordships Imprisonment and hard usage; there professing were it in his power to help him, he would with all his Heart, but what he did, was by strict Order from his Majesty; and that it was as much as his life was worth to assist him (as the case now stood) there<g ref="char:EOLhyphen"/>fore he desired his Lordship to excuse him for the strict and hard usage he found there, for it was much against his will and inclination, but he would assist him what he could in waiting up<g ref="char:EOLhyphen"/>on the King, and letting him know how heartily you were grieved and trou<g ref="char:EOLhyphen"/>bled for your offence; it is probable his
+<pb n="8" facs="tcp:37278:7"/> Majesty will take pitty on you, and al<g ref="char:EOLhyphen"/>low you a greater liberty, and better and more plentiful Dyet. The Lieu<g ref="char:EOLhyphen"/>tenant of the <hi>Tower</hi> went accordingly to the King, letting him know how ex<g ref="char:EOLhyphen"/>treamly the Lord Abbot was grieved and troubled for his offence, and that he did seriously profess he was wholly ignorant wherein he had offended your Ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esty, and therefore did desire me to interceed for him, that you would be pleased to allow him Liberty to walk about the <hi>Tower,</hi> and that he may have better and more plentiful Dyet: The King had much ado to forbear Lauging when he heard this; he thought he should in a little longer time bring the Abbot to as good a Stomach as he had. He therefore told the Lieutenant he would not conde<g ref="char:EOLhyphen"/>scend to his further enlargement, or that he have better Dyet, but charged him to be sure to let him have Bread and Water enough and that he should bring him word the next day how it fa<g ref="char:EOLhyphen"/>red with the Abbot.</p>
+               <p>The Lieu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enant returning to the <hi>Tower,</hi> told the Abbot he could not prevail with his Majesty, for which he
+<pb n="9" facs="tcp:37278:7"/> he was very sorry, so taking his leave of the Abbot for that night, went away, leaving the Abbot to his repose, and his sorrowful comfort of Bread and Water.</p>
+               <p>Now the next day (according to his usual custom) he went to visit the Ab<g ref="char:EOLhyphen"/>bot, whom he found very pensive and melancholly; indeed, said the Lieute<g ref="char:EOLhyphen"/>nant, it troubles me much to see you so melancholly, and that I cannot help you. Ah! Sir, replyed the Abbot, I should be much merrier had I but a Joynt of good Meat, and a Glass of good Wine; for indeed I am so hungry that I am ready to eat my own flesh: truly, said the Lieutenant, I date not give it you, it is as much as my life is worth if I do: I have such strict Order to the contrary, from the King: But I will go to his Majesty once more on your behalf; for which the Abbot kind<g ref="char:EOLhyphen"/>ly thanked him.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="10" facs="tcp:37278:8"/>
+               <head>CHAP. IV. How the <hi>Abbot</hi> Dined in the <hi>Tower,</hi> and how the King demanded his Hundred pound, for bringing the <hi>Abbot</hi> to his Stomach.</head>
+               <p>NOw when the Lieutenant of the <hi>Tower</hi> came to the King, h<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> him how hungry the Abbot was, and that he was ready to eat his own flesh: Well, said the King, to morrow let him have a Loyn of Beef to Diner, and let him have a Bottle or two of Cla<g ref="char:EOLhyphen"/>ret, but be you not known that you have Orders from me, but that you do it upon your own account, and let there be a hole made out of the abbots Room, that I may come privately and see him eat: The Lieutenant told the King that all things should be done ac<g ref="char:EOLhyphen"/>cording to his Order.</p>
+               <p>He therefore went home again to the <hi>Tower,</hi> and told the Abbot that the King was much enraged against him,
+<pb n="11" facs="tcp:37278:8"/> in somuch that he could not prevail with him in the least to have any o<g ref="char:EOLhyphen"/>ther diet but Bread and Water; but that he so much pittied him, and was troubled at his condition, that he would venture his Place and Life to serve him; and that too morrow he should have a Dinner, and he would come and Dine with him himself: the Abbot was not a little pleased with this News, telling him he would not be Vngrateful to him, for this great kindness, if ever he came to have his Liberty: Now the Abbot was so o<g ref="char:EOLhyphen"/>verjoyed with the hopes of a Dinner the next day, that he slept quieter that night, than he had done ever since he came into the <hi>Tower.</hi> The next day about twelve a Clock, the King came privately to the <hi>Tower,</hi> where he was conveyed secretly into a room adjoyn<g ref="char:EOLhyphen"/>ing to the Lord Abbots, and a hole made so cunningly that he might see the Lord Abbot, and he not see him a<g ref="char:EOLhyphen"/>gain; it was not long before the Cloth was laid, and a proper tall Fellow brought in a lusty Loyn of Beef, and another two or three Bottles of Claret, at which sight the Lord Abbot
+<pb n="12" facs="tcp:37278:9"/> could not forbear laughing; Then came in the Lieutenant of the <hi>Tower,</hi> saying, you see my Lord, I venture my Life to come and Dine with you, but no more words of that: let us fall too as fast as we can, and be merry; so after the Abbot had said a short Grace, he fell aboard on the Beef, cutting a swinging piece, which he soon devour<g ref="char:EOLhyphen"/>ed then he calls for a Glass of Claret, drinks it off and then falls to his Beef again, insomuch that the King had much ado to fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bear Laughing, to see how the Abbot had laid about him, see<g ref="char:EOLhyphen"/>ing plainly the Abbot had gotten as good a stomach as he had: now when the Abbot had pretty well dined, the King sent one of his Servants into the Room, saying aloud, the King: at which News the Lieutenant fell on his Knees, and the Abbot was like to have fallen into a sound, but the King en<g ref="char:EOLhyphen"/>tring the Room, said; my Lord, be not dismayed, I come but to demand the Hundred Pound you owe me, pay me that, and you shall have your Liberty when you will.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="13" facs="tcp:37278:9"/>
+               <head>CHAP. V. Of the <hi>Abbots</hi> Releasement and Return home to <hi>Reading.</hi>
+               </head>
+               <p>NOw the King told the Lord <hi>Abbot,</hi> that he Dined with him at <hi>Read<g ref="char:EOLhyphen"/>ing</hi> not long since, though he knew him not; and you told me that you would give an hundred pounds you had so good a Stomach as I had; Where<g ref="char:EOLhyphen"/>upon the <hi>Abbot</hi> falling on his knees, told the King, That he was extraordi<g ref="char:EOLhyphen"/>nary sorry that he should in any ways be thought to give any occasion of of<g ref="char:EOLhyphen"/>fence to his Majesty, for he had always a great Veneration and R<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>spect for him: but withal, he was very glad that his Majesty had proved so good a Physitian to him and had so well cured him of his bad stomach, and was there<g ref="char:EOLhyphen"/>fore willing to give his Majesty dou<g ref="char:EOLhyphen"/>ble the Sum (if he desired it) but the King told him he would have no more than what was his due.</p>
+               <pb n="14" facs="tcp:37278:10"/>
+               <p>Whereupon the <hi>Abbot</hi> sent immedi<g ref="char:EOLhyphen"/>ately for a Friend of his, who furni<g ref="char:EOLhyphen"/>shed him with so much mony as he had occasion for, and not only paid the King, but the Lieutenant of the Tow<g ref="char:EOLhyphen"/>er, very liberally Rewarding him for his kindness and civility to him; Which being done, he took his leave of the King and the Lieutenant of the Tower, and so retuned home to his <hi>Ab<g ref="char:EOLhyphen"/>by</hi> at <hi>Reading,</hi> to the great joy of all his Friends.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="15" facs="tcp:37278:10"/>
+               <head>CHAP. VI. How the <hi>Abbot</hi> of <hi>Reading</hi> returned home to his <hi>Abbey,</hi> and made a great Feast for the Entertainment of all his Friends.</head>
+               <p>NOw when the <hi>Abbot</hi> had come off so well from his late Imprison<g ref="char:EOLhyphen"/>ment in the <hi>Tower,</hi> he was not a little Ioyful; he therefore made a great preparation for his return home to his Abby at <hi>Reading</hi> sending for his friends and acquaintance, telling them the whole Story of the occasion of his late Confinement in the <hi>Tower</hi> of <hi>London;</hi> as, how the King came and Dined with him at his Abby at <hi>Reading,</hi> he not knowing him to be the King, and what a weak Stomack he had, that he could scarcely eat so much as the Pe<g ref="char:EOLhyphen"/>stle of a Lark at a Meal, and how he told rhe King he would give a hundred pounds that he had so good a Sto<g ref="char:EOLhyphen"/>mach
+<pb n="16" facs="tcp:37278:11"/> as the King had, and what me<g ref="char:EOLhyphen"/>thod the King took to bring him to a good Stomach; as also how he cau<g ref="char:EOLhyphen"/>sed him to be Committed c<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ose Priso<g ref="char:EOLhyphen"/>soner in the <hi>Tower</hi> of <hi>London,</hi> and how be ordered him to be fed only with Bread and Water, till such time that he had <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o good a stomach as he thought he could almost eat any thing in the World; likewise he told how kind the Lieutenant of the <hi>Tower</hi> was to him, how he stood his Friend to the King, and how he procured him a Surloyn of Beef, and how heartily he eat of it, which when th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y heard, they all laugh<g ref="char:EOLhyphen"/>ed heartily, to think what a Cure the King had wrought on the <hi>Abbot;</hi> they therefore told him they hoped that he would now at his return home to <hi>Reading</hi> he merry and chearful with them, and let them see how heartily he could feed up<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n a Sir-loyn of Beef; I, that you shall, replyed the <hi>Abbot,</hi> and I do invite you all to my House at <hi>Reading.</hi>
+               </p>
+               <p>So the <hi>Abbot</hi> returned home to his House at <hi>Reading,</hi> with the rest of his Friends and Acquaintance, with great
+<pb n="17" facs="tcp:37278:11"/> Cheerfu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ness and Splendor: and at his arrival at <hi>Reading,</hi> was received with all joy imagimable; where he O<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dered a great Feast to be made, which continued for some days with great variety and plenty of all sorts of Flesh and Fish, the Abbot feeding ve<g ref="char:EOLhyphen"/>ry heartily every day, especially upon his Beloved Dish, a Sir-loyn of Beef; and b<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing very merry and cheerful with all his friends and acquaintance, the Feast being over, his Friends re<g ref="char:EOLhyphen"/>turned home to their several Habitati<g ref="char:EOLhyphen"/>ons, leaving the Abbot very chearful and well, at his Abby at <hi>Reading,</hi> where he lived some time after in great plen<g ref="char:EOLhyphen"/>ty.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:37278:12"/>
+            <head>Books Printed for, and are to be Sold by <hi>Charles Dennisson,</hi> at the <hi>Stationers Armes</hi> within <hi>Aldgate:</hi> Where any Chapmen may be furnisht with all sorts of <hi>Books</hi> and <hi>Ballads.</hi>
+            </head>
+            <list>
+               <item>THe Pleasant History of King <hi>Henry</hi> the Eighth and a <hi>Cobler.</hi>
+               </item>
+               <item>The Pleasant History of King <hi>Henry</hi> the Eighth, and the <hi>Abbot</hi> of <hi>Reading.</hi>
+               </item>
+               <item>The Pleasant History of <hi>Tom Ladle,</hi> with the Transactions of <hi>Peter</hi> the Flow<g ref="char:EOLhyphen"/>man and <hi>Berry</hi> his Mother.</item>
+               <item>
+                  <hi>Wit Reviv'd</hi> and brought to Tryal; <hi>
+                     <hi>Or,</hi> New Merry Riddles.</hi>
+               </item>
+               <item>The <hi>Academy</hi> of <hi>Complements; <hi>Or,</hi>
+                  </hi> The Compleat Academian.</item>
+               <item>The History of the <hi>Life</hi> and Damnable <hi>Death</hi> of Dr. <hi>Iohn Faustus.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:37278:12"/>
+            <pb facs="tcp:37278:13"/>
+            <p>
+               <figure>
+                  <head>C D</head>
+                  <figDesc>woodcut of coat of arms</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:37278:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
